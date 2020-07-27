@@ -2,6 +2,7 @@
 
 Your data resides in different clouds, such as Amazon Web Services S3 or Azure Blob Storage, but you want to analyze it from a common analysis platform. Oracle Cloud Infrastructure Data Flow is a fully managed Spark service that lets you develop and run big data analytics, regardless of where your data resides, without having to deploy or manage a big data cluster. 
 
+These terraform scripts cover the administrative steps you have to do before using OCI DataFlow. 
 
 ## Terraform Provider for Oracle Cloud Infrastructure
 The OCI Terraform Provider is now available for automatic download through the Terraform Provider Registry. 
