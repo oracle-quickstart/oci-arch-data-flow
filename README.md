@@ -64,4 +64,4 @@ When you no longer need the deployment, you can run this command to destroy it:
 
 ## Reference Archirecture
 
-- [Analyze data from external object storage sources using Oracle Cloud Infrastructure Data Flow](https://docs.us.oracle.com/en/solutions/oci-big-data-flow/)
+- [Analyze data from external object storage sources using Oracle Cloud Infrastructure Data Flow](https://docs.oracle.com/en/solutions/oci-big-data-flow/)
