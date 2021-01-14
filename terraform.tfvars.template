@@ -14,7 +14,7 @@ region = "<oci_region>"
 compartment_ocid = "<compartment_ocid>"
 
 
-dataflow_admins_group_name = "<dataflow_admin_group_name>">
+dataflow_admins_group_name = "<dataflow_admin_group_name>"
 dataflow_admins_group_description = "<dataflow_admin_group_description>"
 
 dataflow_users_group_name = "<dataflow_user_group_name>"
@@ -29,3 +29,10 @@ dataflow_users_policy_description = "<dataflow_user_policy_description>"
 dataflow_bucket_name = "<dataflow_bucket_name>"
 dataflow_bucket_access_type = "<NoPublicAccess>"
 dataflow_bucket_storage_tier = "<Standard>"
+
+application_file_uri = "<application_file_uri>"
+application_archive_uri = "<application_archive_uri>"
+
+dataflow_logs_bucket_uri = "<dataflow_logs_bucket_uri>"
+
+dataflow_warehouse_bucket_uri = "<dataflow_warehouse_bucket_uri>"
